@@ -1,1 +1,3 @@
 " Name: Khizer Hameed " 
+Email: "khzrhameed98@gmail.com"
+Faculty of Information Technology
